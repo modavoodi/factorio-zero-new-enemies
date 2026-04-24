@@ -1,7 +1,6 @@
-# factorio-Zero-New-Enemies
-Factorio mod that disables spawning of new enemy biters and enemy bases.
+# factorio-zero-new-enemies
+Factorio mod that prevents new enemy biters/bases from spawning in new generated 'chunks'
 
-Deactivate this mod to spawn new enemy biters/bases on new generated 'chunks'
+Deactivate this mod to spawn new enemy biters/bases again on new generated 'chunks'
 
-Only removes enemies from new 'chunks' (black fog on map)
-Does not impact enemies the game spawns within the starting area, or enemies that have already been genereated within existing chunks.
+Note: black area of map is an undiscovered chunk, revealed area of mini-map is a discovered chunk (this mod does not impact chunks already revealed)
