@@ -1,4 +1,4 @@
-# factorio-disable-biters
+# factorio-Zero-New-Enemies
 Factorio mod that disables spawning of new enemy biters and enemy bases.
 
 Deactivate this mod to spawn new enemy biters/bases on new generated 'chunks'
